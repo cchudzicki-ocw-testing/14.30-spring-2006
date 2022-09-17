@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture notes for all the topics of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -103,7 +104,7 @@ Review for Exam 2
 {{< tdopen >}}
 Random Sample, Law of Large Numbers, Central Limit Theorem ({{% resource_link 1620ba4c-321d-0fe5-94a7-0c5fba79a69a "PDF" %}})  
   
-Simulations: Magnifying Glass (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 68a2865a-1e86-bf15-ef8d-48651dbca36d "PDF" %}})
+Simulations: Magnifying Glass ({{% resource_link 68a2865a-1e86-bf15-ef8d-48651dbca36d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
